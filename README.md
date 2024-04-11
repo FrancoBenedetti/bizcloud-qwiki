@@ -1,5 +1,7 @@
-# QWIKI
-Qwiki is a simple application that allows Google Docs to be used to present a collection of these as an online user manual or documentation.
+# Bizcloud QWIKI
+Bizcloud Qwiki is a simple application that allows Google Docs to be used to present a collection of these as an online user manual or documentation. The user guide serves as a [demo](https://bizverse.biz/qwiki).
+
+The Qwiki is intended for use with a Bizcloud host in which the Qwiki bundle template is construted. The bundle template may then be installed to the server as a set of JSON files. The Qwiki application interprets the JSON instructions and renders the Google docs or other pages as needed.
 
 Simply use Google Docs to create the different parts of your user manuals and then expose these to your users using Qwiki.
 
@@ -11,11 +13,9 @@ This set of files should be copied into a folder, e.g. with the name or 'manual'
 
 Access the sample manual by using, e.g. https://yourdomain.com/manual.
 
-[User Guide](https://docs.google.com/document/d/e/2PACX-1vRJDStiNjCz7vzgTFa0WDdkdKNkTqJYq-hJ4D_1vr1kiDIQTs5FVk4479r_LRdGriwOraOtgWoiJKUC/pub)
+[User Guide](https://bizverse.biz/qwiki)
 
-[Developer Guide](https://docs.google.com/document/d/e/2PACX-1vSm0DpchhzAVBRl6q81T_WbQrM6-cVyppcUadu5VIgyO2GZ3o8ulr0-cqnKJQMWubpCmfFEyZDf2mDh/pub)
-
-## INSTALLATION INSTRUCTIONS
+## QUICK INSTALLATION INSTRUCTIONS
 
 Copy the folder contents into a bundle container. The bundle container is a folder at the root of the web site.
 
